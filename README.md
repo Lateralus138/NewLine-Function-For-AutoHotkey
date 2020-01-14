@@ -6,7 +6,7 @@ An AutoHotkey function to create a new line above or below the current line in m
 
 ## Install
 
-Copy the function from the file above or here in the README into your daily running script, project, or function library as you would any other AutoHotkey function &amp; create your hotkeys (or however you're using it, GUI perhaps?) in the same file or called/imported file.
+Copy the function from the file above or below in the README into your daily running script, project, or function library as you would any other AutoHotkey function &amp; create your hotkeys (or however you're using it, GUI perhaps?) in the same file or called/imported file.
 
 ## Usage
 
