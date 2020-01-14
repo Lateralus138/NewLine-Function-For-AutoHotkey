@@ -56,6 +56,17 @@ NewLine(direction := "down"){
 }
 ```
 
+## Test
+
+Tested on Windows 10 64 Bit on these editors
+
+- Notepad++
+- Atom
+- Sublime
+- VSCode
+- Dreamweaver
+- Brave Browser (Twitter)
+
 ## License
 
 >This program is free software: you can redistribute it and/or modify
